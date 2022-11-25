@@ -2,7 +2,8 @@
 
 ## Description
 
-This is an exercise in HTML semantics and writing efficient CSS code. Given preexisting code for the client's homepage, my task is to clean it up by eliminating CSS redundancies, modifying HTML tags to reflect a well-ordered semantic structure, and debugging broken features.
+This is an exercise in HTML semantics and writing efficient CSS code. Given preexisting code for the client's homepage, my task is to clean it up by eliminating CSS redundancies, modifying HTML tags to reflect a well-ordered semantic structure, and debugging broken features. Below is a screenshot showing some of the page's body content.
+![Sample screenshot of deployed site](./assets/images/sample.png)
 
 ## Installation
 
