@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-Owing to my edits, this modified code should be significantly easier to work with for future development. Open DevTools in Google Chrome to see notes on the modifications made and the rationale behind them. To view the deployed page, [click here](https://altavada.github.io/refactor-project/).
+Owing to my edits, this modified code should be significantly easier to work with for future development. Open DevTools in Google Chrome to see notes on the modifications made and the rationale behind them. To view the deployed page, [click here](https://altavada.github.io/samt-refactor-project/).
 
 ## Credits
 
