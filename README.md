@@ -14,7 +14,7 @@ Owing to my edits, this modified code should be significantly easier to work wit
 
 ## Credits
 
-N/A
+Credits to [this Stack Overflow thread](https://stackoverflow.com/questions/4216035/css-background-image-alt-attribute) for introducing me to the "title" attribute for describing an image rendered as the background-image property of a CSS class.
 
 ## License
 
