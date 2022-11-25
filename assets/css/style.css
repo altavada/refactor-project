@@ -129,7 +129,7 @@ footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-/* changed .footer class modifier to footer element modifier, eliminates need for an extra class attribute in HTML file. */
+/* changed .footer class modifier to footer element modifier, eliminates need for an extra class attribute in HTML file */
 
 footer h2 {
     font-size: 20px;
