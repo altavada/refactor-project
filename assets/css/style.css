@@ -27,13 +27,14 @@ h1 {
 }
 /* removed "h1" and "header" parents -- redundant; the ".seo" class is specific enough */
 
-header div {
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
+/* it's simpler to make this a "nav" element and just target that element in the CSS */
 
 li {
     list-style-type: none;
