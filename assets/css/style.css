@@ -20,12 +20,12 @@ h1 {
     display: inline-block;
     font-size: 48px;
 }
-/* removed redundant "header" parent -- can apply universally to "h1" */
+/* removed "header" parent -- redundant; can apply universally to "h1" */
 
 .seo {
     color: #d9dcd6;
 }
-/* removed "h1" and "header" parents -- redundant; ".seo" is already specific */
+/* removed "h1" and "header" parents -- redundant; the ".seo" class is specific enough */
 
 header div {
     padding-top: 15px;

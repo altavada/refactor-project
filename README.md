@@ -15,7 +15,7 @@ Owing to my edits, this modified code should be significantly easier to work wit
 
 ## Credits
 
-Credits to [this Stack Overflow thread](https://stackoverflow.com/questions/4216035/css-background-image-alt-attribute) for introducing me to the "title" attribute for describing an image rendered as the background-image property of a CSS class.
+Credits to [this Stack Overflow thread](https://stackoverflow.com/questions/4216035/css-background-image-alt-attribute) for introducing me to the "title" attribute for describing an image rendered as the background-image property of a CSS class. Dear instructors, I'd love some feedback on the viability of this method. This was by far the most popular response in that SO thread, but there was some debate about whether it was really a fix-all solution for accessibility purposes. It seems that using "background-image" is not the best practice for any image you want to have a text description attached to it, but I figured I'd give it a shot anyway.
 
 ## License
 
